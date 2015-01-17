@@ -1,0 +1,38 @@
+/**
+ * Admin CSS
+ *
+ * @package     DeveloperFuel\Admin\CSS
+ * @since       1.0.0
+ * @author      Daniel J Griffiths <dgriffiths@section214.com>
+ */
+
+
+/* General styles
+-------------------------------------------------------------- */
+.developerfuel-unconfigured {
+    color: #a00;
+    margin-right: 10px;
+}
+
+.developerfuel-business {
+    border-bottom: 1px solid #eee;
+    padding: 0 0 10px 0;
+    margin-bottom: 10px;
+}
+
+.developerfuel-address {
+    font-size: 0.9em;
+}
+
+.developerfuel-review {
+    font-size: 0.9em;
+    text-align: justify;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.developerfuel-more {
+    text-align: center;
+    font-size: 0.9em;
+    font-weight: bold;
+}
